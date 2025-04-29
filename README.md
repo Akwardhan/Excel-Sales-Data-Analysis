@@ -1,4 +1,4 @@
-# Excel Bike Sales Dashboard Project
+# Excel Sales Dashboard & Trend Analysis Project
 
 ## Overview  
 This project demonstrates the process of cleaning and analyzing a bike sales dataset in Excel. It includes data cleaning, exploratory data analysis (EDA), and developing an interactive dashboard to uncover key sales trends across customer demographics.
